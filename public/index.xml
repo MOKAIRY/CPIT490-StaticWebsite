@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Our Mechanic Shop on MOKAIRY Mechanic Shop</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Welcome to Our Mechanic Shop on MOKAIRY Mechanic Shop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2025 </copyright>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
